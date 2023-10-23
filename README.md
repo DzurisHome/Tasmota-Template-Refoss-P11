@@ -21,8 +21,8 @@
 
 </br>
 
-![image](https://github.com/DzurisHome/Tasmota-Template-Refoss-P11/assets/42905545/c3f4eb13-d9f7-4d77-94f3-a273f18bb3e3)
-![image](https://github.com/DzurisHome/Tasmota-Template-Refoss-P11/assets/42905545/197940b0-477d-457e-b618-93eb5fc68cf7)
+![Tasmota Refoss P11](https://github.com/DzurisHome/Tasmota-Template-Refoss-P11/blob/main/Tasmota%20Refoss%20P11.png)
+![Tasmota Refoss P11 Template parameters](https://github.com/DzurisHome/Tasmota-Template-Refoss-P11/blob/main/Tasmota%20Refoss%20P11%20Template%20parameters.png)
 
 ## [LinkTree](https://linktr.ee/DzurisHome)
 
