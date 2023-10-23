@@ -29,6 +29,7 @@
 
 ![Tasmota Refoss P11](https://github.com/DzurisHome/Tasmota-Template-Refoss-P11/blob/main/Tasmota%20Refoss%20P11.png)
 ![Tasmota Refoss P11 Template parameters](https://github.com/DzurisHome/Tasmota-Template-Refoss-P11/blob/main/Tasmota%20Refoss%20P11%20Template%20parameters.png)
+![Refoss P11 Plug](https://github.com/DzurisHome/Tasmota-Template-Refoss-P11/blob/main/Refoss%20P11%20Plug.jpg)
 
 ## [LinkTree](https://linktr.ee/DzurisHome)
 
