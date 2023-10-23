@@ -12,7 +12,18 @@
 
 </br>
 
-` `
+| Pin    |                 |   |
+| ------ | --------------- | - |
+| GPIO3  | CSE7766 Rx      |   |
+| GPIO4  | LedLink_i       |   |
+| GPIO5  | Button          | 1 |
+| GPIO12 | Led_i           | 1 |
+| GPIO13 | Relay           | 1 |
+| GPIO17 | ADC Temp        | 1 |
+
+</br>
+
+`{"NAME":"Refoss-P11","GPIO":[0,0,0,3104,576,32,0,0,320,224,0,0,0,4736],"FLAG":0,"BASE":1}`
 
 </br>
 
