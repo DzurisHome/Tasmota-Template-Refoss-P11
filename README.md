@@ -6,6 +6,12 @@
 
 </br>
 
+*****[Refoss P11 | Aliexpress](https://s.click.aliexpress.com/e/_mqy2QaG)*****
+
+*****[Manufacturer | Refoss P11](https://refoss.net/products/refoss-tesmota-wi-fi-plug-p11)*****
+
+</br>
+
 | Pin    |                 |   |
 | ------ | --------------- | - |
 | GPIO3  | CSE7766 Rx      |   |
@@ -15,9 +21,9 @@
 | GPIO13 | Relay           | 1 |
 | GPIO17 | ADC Temp        | 1 |
 
-`{"NAME":"Refoss-P11","GPIO":[0,0,0,3104,576,32,0,0,320,224,0,0,0,4736],"FLAG":0,"BASE":1}`
+</br>
 
-*****[Manufacturer | Refoss P11](https://refoss.net/products/refoss-tesmota-wi-fi-plug-p11)*****
+`{"NAME":"Refoss-P11","GPIO":[0,0,0,3104,576,32,0,0,320,224,0,0,0,4736],"FLAG":0,"BASE":1}`
 
 </br>
 
