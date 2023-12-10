@@ -12,6 +12,16 @@
 
 </br>
 
+| Refoss P11         |
+|--------------------|
+| Tasmota            |
+| MQTT               |
+| ESP8266            |
+| Device Temperature |
+| Energy Monitor     |
+
+</br>
+
 | Pin    |                 |   |
 | ------ | --------------- | - |
 | GPIO3  | CSE7766 Rx      |   |
