@@ -12,13 +12,13 @@
 
 </br>
 
-| Refoss P11         |
-|--------------------|
-| Tasmota            |
-| MQTT               |
-| ESP8266            |
-| Device Temperature |
-| Energy Monitor     |
+| Refoss P11           |
+|----------------------|
+| Tasmota              |
+| MQTT                 |
+| ESP8266              |
+| Internal Temperature |
+| Energy Monitor       |
 
 </br>
 
