@@ -33,12 +33,14 @@
 
 </br>
 
-`{"NAME":"Refoss-P11","GPIO":[0,0,0,3104,576,32,0,0,320,224,0,0,0,4736],"FLAG":0,"BASE":1}`
+```
+{"NAME":"Refoss-P11","GPIO":[0,0,0,3104,576,32,0,0,320,224,0,0,0,4736],"FLAG":0,"BASE":1}
+```
 
 </br>
 
-![Tasmota Refoss P11](https://github.com/DzurisHome/Tasmota-Template-Refoss-P11/blob/main/Tasmota%20Refoss%20P11.png)
-![Tasmota Refoss P11 Template parameters](https://github.com/DzurisHome/Tasmota-Template-Refoss-P11/blob/main/Tasmota%20Refoss%20P11%20Template%20parameters.png)
+![Tasmota Refoss P11](https://github.com/DzurisHome/Tasmota-Template-Refoss-P11/blob/main/Images/Tasmota%20Refoss%20P11.png)
+![Tasmota Refoss P11 Template parameters](https://github.com/DzurisHome/Tasmota-Template-Refoss-P11/blob/main/Images/Tasmota%20Refoss%20P11%20Template%20parameters.png)
 ![Refoss P11](https://github.com/DzurisHome/Tasmota-Template-Refoss-P11/blob/main/Images/Refoss%20P11.png)
 
 ## [LinkTree](https://linktr.ee/DzurisHome)
