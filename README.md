@@ -2,11 +2,11 @@
 
 ## [LinkTree](https://linktr.ee/DzurisHome)
 
-[![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/N4N6M7OX3)
+[![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/DzurisHome)
 
 </br>
 
-*****[Refoss P11 | Aliexpress](https://s.click.aliexpress.com/e/_mPJhNKY)*****
+*****[Aliexpress | Refoss P11](https://s.click.aliexpress.com/e/_mPJhNKY)*****
 
 *****[Manufacturer | Refoss P11](https://refoss.net/products/refoss-tesmota-wi-fi-plug-p11)*****
 
@@ -23,7 +23,7 @@
 </br>
 
 | Pin    |                 |   |
-| ------ | --------------- | - |
+|--------|-----------------|---|
 | GPIO3  | CSE7766 Rx      |   |
 | GPIO4  | LedLink_i       |   |
 | GPIO5  | Button          | 1 |
@@ -34,7 +34,7 @@
 </br>
 
 ```
-{"NAME":"Refoss-P11","GPIO":[0,0,0,3104,576,32,0,0,320,224,0,0,0,4736],"FLAG":0,"BASE":1}
+{"NAME":"Refoss-P11 Dzuriš Home","GPIO":[0,0,0,3104,576,32,0,0,320,224,0,0,0,4736],"FLAG":0,"BASE":1}
 ```
 
 </br>
@@ -45,4 +45,4 @@
 
 ## [LinkTree](https://linktr.ee/DzurisHome)
 
-[![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/N4N6M7OX3)
+[![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/DzurisHome)
